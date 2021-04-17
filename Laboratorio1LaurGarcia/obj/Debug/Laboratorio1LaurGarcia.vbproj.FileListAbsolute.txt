@@ -1,0 +1,11 @@
+C:\Users\Laura García\source\repos\Laboratorio1LaurGarcia\Laboratorio1LaurGarcia\bin\Debug\Laboratorio1LaurGarcia.exe.config
+C:\Users\Laura García\source\repos\Laboratorio1LaurGarcia\Laboratorio1LaurGarcia\bin\Debug\Laboratorio1LaurGarcia.exe
+C:\Users\Laura García\source\repos\Laboratorio1LaurGarcia\Laboratorio1LaurGarcia\bin\Debug\Laboratorio1LaurGarcia.pdb
+C:\Users\Laura García\source\repos\Laboratorio1LaurGarcia\Laboratorio1LaurGarcia\bin\Debug\Laboratorio1LaurGarcia.xml
+C:\Users\Laura García\source\repos\Laboratorio1LaurGarcia\Laboratorio1LaurGarcia\obj\Debug\Laboratorio1LaurGarcia.vbprojAssemblyReference.cache
+C:\Users\Laura García\source\repos\Laboratorio1LaurGarcia\Laboratorio1LaurGarcia\obj\Debug\Laboratorio1LaurGarcia.Resources.resources
+C:\Users\Laura García\source\repos\Laboratorio1LaurGarcia\Laboratorio1LaurGarcia\obj\Debug\Laboratorio1LaurGarcia.vbproj.GenerateResource.cache
+C:\Users\Laura García\source\repos\Laboratorio1LaurGarcia\Laboratorio1LaurGarcia\obj\Debug\Laboratorio1LaurGarcia.vbproj.CoreCompileInputs.cache
+C:\Users\Laura García\source\repos\Laboratorio1LaurGarcia\Laboratorio1LaurGarcia\obj\Debug\Laboratorio1LaurGarcia.exe
+C:\Users\Laura García\source\repos\Laboratorio1LaurGarcia\Laboratorio1LaurGarcia\obj\Debug\Laboratorio1LaurGarcia.xml
+C:\Users\Laura García\source\repos\Laboratorio1LaurGarcia\Laboratorio1LaurGarcia\obj\Debug\Laboratorio1LaurGarcia.pdb
